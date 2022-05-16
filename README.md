@@ -36,8 +36,8 @@
 
 ## Overview
 
-![screenshot](./Screenshot.png)
-![screenshot2](./Screenshot2.png)
+![screenshot](./Screenshot.jpg)
+![screenshot2](./Screenshot2.jpg)
 
 ### Built With
 
